@@ -4,7 +4,6 @@ dependencies:
   - xarray
   - zarr
   - dask
-  - dask_kubernetes
   - intake
   - numpy
   - netCDF4
