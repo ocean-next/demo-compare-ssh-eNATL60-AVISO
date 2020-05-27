@@ -38,6 +38,7 @@ dependencies:
   - ipyleaflet
   - graphviz
   - dask-gateway==0.7.1
+  - pip
   - pip:
     - git+https://github.com/xgcm/xgcm.git
     - git+https://github.com/pydata/xarray.git
