@@ -9,7 +9,7 @@ Dask dashboard plots are available to the right.  These will activate when you
 run the cells in your Jupyter notebooks that create a Dask `Client` (these are already written for you).
 
 To get started, double click on the notebooks repository on the left, then on the `compute-and-plot-mean-std-ssh-eNATL60-BLBT02-vs-AVISO.ipynb`,
-and start running through the Jupyter notebook cells.
+and start running through the Jupyter notebook cells. (You can click on Run/Run All Cells to execute the entire notebook at once)
 
 ## Where is this running?
 
