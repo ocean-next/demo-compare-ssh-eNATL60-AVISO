@@ -157,10 +157,11 @@ jupyter-panel-proxy-0.1.0
 jupyter-server-proxy-1.5.0
 jupyter_client-6.1.7
 jupyter_core-4.6.3
-jupyter_telemetry-0.0.5
-jupyterhub-base-1.1.0
-jupyterhub-singleuser-1.1.0
-jupyterlab-2.2.6
+jupyter_telemetry-0.1.0
+jupyterhub-base-1.2.1
+jupyterhub-singleuser-1.2.1
+jupyterlab-2.2.9
+jupyterlab_pygments-0.1.2
 jupyterlab_server-1.2.0
 jxrlib-1.1
 kealib-1.4.13
