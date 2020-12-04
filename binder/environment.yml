@@ -2,7 +2,7 @@ name: mesovar
 channels:
  - conda-forge
 dependencies:
- - python=3.6*
+ - python=3.8*
  - pangeo-notebook=2020.11.06
  - pip=20
  - awscli
@@ -11,7 +11,6 @@ dependencies:
  - cartopy>=0.18
  - cfgrib
  - ciso
- - dask-gateway>=0.9
  - dask-ml
  - datashader>=0.11
  - descartes
@@ -54,6 +53,7 @@ dependencies:
  - pystac
  - python-blosc
  - python-gist
+ - python-graphviz
  - rasterio
  - rio-cogeo
  - rioxarray
